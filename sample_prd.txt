@@ -1,0 +1,11 @@
+Feature: Quick Reorder (food delivery app)
+
+Goal: Improve user engagement by making reordering easier.
+
+Requirements:
+1. Users can reorder a past order in one tap.
+2. The experience should be fast and intuitive.
+3. Reorder must always use the current menu prices.
+4. Reorder must charge the same price as the original order.
+
+Success: Users love the feature.
