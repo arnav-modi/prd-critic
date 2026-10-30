@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Change this to False once your API credits are ready
-USE_MOCK = True
+USE_MOCK = os.environ.get("USE_MOCK", "true").lower() == "true"
 
 MODEL = "claude-sonnet-5-5"
 
