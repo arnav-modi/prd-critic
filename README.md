@@ -1,5 +1,8 @@
 # PRD Critic
 
+**Live demo:** https://prd-critic.onrender.com
+*(Free hosting: the first load after a quiet period can take about a minute.)*
+
 An AI tool that reviews product requirement documents (PRDs) like a skeptical senior PM.
 
 ## How it works
